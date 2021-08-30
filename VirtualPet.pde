@@ -96,7 +96,7 @@ void draw()
   
   //cheek
   fill(245,120,216);
-  ellipse(130,82,20,22);
+  ellipse(130,80,20,22);
   
   //mouth
   fill(0,0,0);
